@@ -85,7 +85,8 @@ This is a distilled version of BART, optimized for efficient and high-quality te
 *Intern at CodTech IT Solutions*  
 📧 [sheyashsn.desai@gmail.com]  
 🔗 [GitHub Profile](https://github.com/<Shreyash Desai>)
-🔗 LinkedIn Profile
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/shreyash-desai-a13730384/)
 
 
 ---
@@ -95,6 +96,7 @@ This is a distilled version of BART, optimized for efficient and high-quality te
 I would like to thank **CodTech IT Solutions** and my mentor **Neela Santosh** for providing this opportunity and guidance during the internship.
 
 ---
+
 
 
 
