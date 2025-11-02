@@ -74,7 +74,7 @@ This tool demonstrates how modern NLP models can understand human language and e
 **Shreyash Desai**  
 *Intern at CodTech IT Solutions*  
 📧 [sheyashsn.desai@gmail.com]  
-🔗 [GitHub Profile](https://github.com/<Batman1as>)
+🔗 [GitHub Profile](https://github.com/<Shreyash Desai>)
 
 ---
 
@@ -83,3 +83,4 @@ This tool demonstrates how modern NLP models can understand human language and e
 I would like to thank **CodTech IT Solutions** and my mentor **Neela Santosh** for providing this opportunity and guidance during the internship.
 
 ---
+
