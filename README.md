@@ -1,7 +1,7 @@
 # 🧠 TEXT-SUMMARIZE-TOOL
 
 **Company:** CodTech IT Solutions  
-**Name:** Shreyash Desai  
+**Name:** Shreyash Nhanu Desai  
 **Intern ID:** CT04DR1291 
 
 **Domain:** Artificial Intelligence 
@@ -87,6 +87,7 @@ This tool demonstrates how modern NLP models can understand human language and e
 I would like to thank **CodTech IT Solutions** and my mentor **Neela Santosh** for providing this opportunity and guidance during the internship.
 
 ---
+
 
 
 
