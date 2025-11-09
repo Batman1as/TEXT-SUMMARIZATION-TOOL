@@ -56,6 +56,27 @@ git --version
 
 --
 
+🪜 Step 2: Install or Repair Python
+
+Go to 👉 https://www.python.org/downloads/
+
+Download the latest Python (64-bit).
+
+During installation, CHECK this box ✅ at the bottom:
+
+Add Python to PATH
+
+
+Finish setup, then restart your terminal.
+
+🪜 Step 3: Verify pip
+
+Run:
+
+pip --version
+
+--
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/ShreyashDesai/TEXT-SUMMARIZATION-TOOL.git
@@ -112,6 +133,7 @@ This is a distilled version of BART, optimized for efficient and high-quality te
 I would like to thank **CodTech IT Solutions** and my mentor **Neela Santosh** for providing this opportunity and guidance during the internship.
 
 ---
+
 
 
 
