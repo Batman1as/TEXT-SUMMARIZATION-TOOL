@@ -43,6 +43,8 @@ This tool demonstrates how modern NLP models can understand human language and e
 --
 
 🪜 Setup Instructions
+--
+
 ✅ Step 1: Install Git (64-bit)
 
 If Git isn’t installed, download the 64-bit version here:
@@ -133,6 +135,7 @@ This is a distilled version of BART, optimized for efficient and high-quality te
 I would like to thank **CodTech IT Solutions** and my mentor **Neela Santosh** for providing this opportunity and guidance during the internship.
 
 ---
+
 
 
 
